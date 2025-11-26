@@ -1,5 +1,8 @@
 venv/
 
+data/
+
+wandb/
 
 .DS_Store
 WandB.ipynb
